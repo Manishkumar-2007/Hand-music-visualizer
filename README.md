@@ -1,3 +1,4 @@
-# Hand-music-visualizer
-🎵 An interactive web-based music visualizer that uses your webcam and hand tracking to create ethereal soundscapes and stunning visuals. Control pitch, volume, and instruments just by moving your hands in the air!
 **Hand Music Visualizer Pro** is an interactive web application that transforms hand gestures into music and real-time visual effects using MediaPipe Hands and the Web Audio API. Control pitch, volume, and instruments through natural hand movements while enjoying dynamic particle animations, waveform visualizations, and a modern glassmorphism UI. Built with HTML, CSS, and JavaScript, requiring no additional installation.
+
+## 🚀 Live Demo
+[Click here to run the Hand Music Visualizer](https://manishkumar-2007.github.io/Hand-music-visualizer/) 
